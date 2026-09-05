@@ -1,4 +1,4 @@
-# Mouse Social Behavior Classification (CalMS21)
+# Mouse Social Behavior Analysis 
 
 Classifying mouse social behaviors (attack, investigation, mount, other) from tracked body-part keypoints, using the [CalMS21](https://data.caltech.edu/records/1991) dataset from the Multi-Agent Behavior Challenge.
 
